@@ -48,8 +48,8 @@ This is intentionally a bare-bones project. It is missing many things a real imp
 
 Generated faces after 5 epochs of training:
 
-![Generated Faces](generated images.png)
+![Generated Faces](generated_images.png)
 
 Loss curves over training:
 
-![Loss Curves](loss curve.png)
+![Loss Curves](loss_curve.png)
